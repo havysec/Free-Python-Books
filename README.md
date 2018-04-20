@@ -128,4 +128,5 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * What You Need to Know about Python [[Download]](/book/What%20You%20Need%20to%20Know%20about%20Python.pdf)
 * wxPython 2.8 Application Development Cookbook [[Download]](/book/wxPython%202.8%20Application%20Development%20Cookbook.pdf)
 * 流畅的Python [[Download]](/book/%E6%B5%81%E7%95%85%E7%9A%84Python.epub)
+* LearningPython [[Download]](http://www.dsf.unica.it/~fiore/LearningPython.pdf)
 
